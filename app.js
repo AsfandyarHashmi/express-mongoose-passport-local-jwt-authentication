@@ -18,7 +18,7 @@ require('./config/passport');
 app.use(passport.initialize());
 
 // routes
-var indexRouter = require('./routes/index');
+// var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 
 // view engine setup
