@@ -1,4 +1,4 @@
-# Vagrant Ansible Base
+# Express Mongoose Passport Local JWT Authentication
 
 ## Description
 
