@@ -1,0 +1,17 @@
+# Vagrant Ansible Base
+
+## Description
+
+Just a simple authentication template. It can (and must) be greatly improved upon. However, it will set you on the right direction.
+
+## Usage
+
+### Configuration
+
+Rename ```.env.example``` to ```.env``` and edit the variables (if you need to).
+
+### Usage
+
+Download dependencies with ```npm install```.
+
+Start the server with ```npm run dev```.
